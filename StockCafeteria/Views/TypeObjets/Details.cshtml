@@ -1,0 +1,34 @@
+﻿@model StockCafeteria.TypeObjet
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TypeObjet</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Libelle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Libelle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrixVente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrixVente)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdTO }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

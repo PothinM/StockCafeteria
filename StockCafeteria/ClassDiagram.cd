@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StockCafeteria.BundleConfig" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\BundleConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.FilterConfig" Collapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\FilterConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.ApplicationUserManager" Collapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\IdentityConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.RouteConfig" Collapsed="true">
+    <Position X="20.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\RouteConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Startup" Collapsed="true">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAEAgIAAAAAAAAA=</HashCode>
+      <FileName>App_Start\Startup.Auth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.WebApiConfig" Collapsed="true">
+    <Position X="22.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\WebApiConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.WebApiApplication" Collapsed="true">
+    <Position X="20.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ApiDescriptionExtensions" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ApiDescriptionExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.HelpPageConfig" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\App_Start\HelpPageConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.HelpPageAreaRegistration" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\HelpPageAreaRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.HelpPageConfigurationExtensions" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAABAICACACEAACGSCAAAADABAAAEMAAAAAIEA=</HashCode>
+      <FileName>Areas\HelpPage\HelpPageConfigurationExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.HelpPageSampleGenerator" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAYAARQAQAAEAJgAAAQAAgAAEAgFAAAAABCAAAI=</HashCode>
+      <FileName>Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.HelpPageSampleKey" Collapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAABAAAgAgAAAAAAAAAAAAICQAAAEAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ImageSample" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAIAAAAIAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\SampleGeneration\ImageSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.InvalidSample" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAEgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\SampleGeneration\InvalidSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ObjectGenerator" Collapsed="true">
+    <Position X="22.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABDAoAAAAAACAEAICAAAYAAACAAAAAAgCAgAAAAIA=</HashCode>
+      <FileName>Areas\HelpPage\SampleGeneration\ObjectGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.TextSample" Collapsed="true">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAIAAAAAACAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\SampleGeneration\TextSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.XmlDocumentationProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIEAAAAIBAEAQAAABIAAAAAAAAAAAAAAAAAAAAAAAkg=</HashCode>
+      <FileName>Areas\HelpPage\XmlDocumentationProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.Controllers.HelpController" Collapsed="true">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAABAAAAAAAAAAAAAAAAAAAAAAAgAEAAAAgAAA=</HashCode>
+      <FileName>Areas\HelpPage\Controllers\HelpController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.CollectionModelDescription" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\CollectionModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.ComplexTypeModelDescription" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\ComplexTypeModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\DictionaryModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.EnumTypeModelDescription" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\EnumTypeModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.EnumValueDescription" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\EnumValueDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.KeyValuePairModelDescription" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\KeyValuePairModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.ModelDescription" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\ModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGQBAAJAABAAACBAgAAAAASBAAAAAAAAAEAACAQAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.ModelNameAttribute" Collapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.ModelNameHelper" Collapsed="true">
+    <Position X="20.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\ModelNameHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.ParameterAnnotation" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\ParameterAnnotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.ParameterDescription" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAQAQAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\ParameterDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.SimpleTypeModelDescription" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\SimpleTypeModelDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Areas.HelpPage.Models.HelpPageApiModel" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAGBAAAAAAAAAAAAAgAAAAAAAUBAAAAAQAQAg=</HashCode>
+      <FileName>Areas\HelpPage\Models\HelpPageApiModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Controllers.AccountController" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAFACAACAAgQAAEAARAgIAABABEBAAAAAAgAAAAQA=</HashCode>
+      <FileName>Controllers\AccountController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Controllers.HomeController" Collapsed="true">
+    <Position X="22.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEADAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Controllers.ValuesController" Collapsed="true">
+    <Position X="19" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAACAEAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\ValuesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.AddExternalLoginBindingModel" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AccountBindingModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.ChangePasswordBindingModel" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAEAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Models\AccountBindingModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.RegisterBindingModel" Collapsed="true">
+    <Position X="15.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAA=</HashCode>
+      <FileName>Models\AccountBindingModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.RegisterExternalBindingModel" Collapsed="true">
+    <Position X="17.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AccountBindingModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.RemoveLoginBindingModel" Collapsed="true">
+    <Position X="19" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAA=</HashCode>
+      <FileName>Models\AccountBindingModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.SetPasswordBindingModel" Collapsed="true">
+    <Position X="22.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Models\AccountBindingModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.ExternalLoginViewModel" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAACAAABAAAAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.ManageInfoViewModel" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAQAQAAAAAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.UserInfoViewModel" Collapsed="true">
+    <Position X="15.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.UserLoginInfoViewModel" Collapsed="true">
+    <Position X="17.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAA=</HashCode>
+      <FileName>Models\AccountViewModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.ApplicationUser" Collapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Models.ApplicationDbContext" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IdentityModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Providers.ApplicationOAuthProvider" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAACAAAAAAAAAAAAAEAAEIAAAAAAAAAAAgA=</HashCode>
+      <FileName>Providers\ApplicationOAuthProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Results.ChallengeResult" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Results\ChallengeResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StockCafeteria.Vente">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <AssociationLine Name="Objet" Type="StockCafeteria.Objet">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.215" Y="0.108" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAABBAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Vente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Objet" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StockCafeteria.Commande">
+    <Position X="1.25" Y="4.75" Width="1.75" />
+    <AssociationLine Name="Objets" Type="StockCafeteria.Objet">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.044" Y="0.068" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAIAABAAAAAAAAQAAAAAAAQAQA=</HashCode>
+      <FileName>Models\Commande.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Fournisseur" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Objets" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="StockCafeteria.Objet">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <AssociationLine Name="TypeObjet" Type="StockCafeteria.TypeObjet">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.102" Y="0.093" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAAAAAAIAAAAAAAEAAABAAAAAAAAAAIAA=</HashCode>
+      <FileName>Models\Objet.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Commande" />
+      <Property Name="TypeObjet" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StockCafeteria.Fournisseur">
+    <Position X="1.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAQAAAAAA=</HashCode>
+      <FileName>Models\Fournisseur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.TypeObjet">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Models\TypeObjet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Comptes">
+    <Position X="7" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Comptes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockCafeteria.Profit">
+    <Position X="9" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABABEAgAAAAAAAAAAAgAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Models\Profit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="StockCafeteria.Areas.HelpPage.ModelDescriptions.IModelDocumentationProvider" Collapsed="true">
+    <Position X="12" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\ModelDescriptions\IModelDocumentationProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="StockCafeteria.Areas.HelpPage.SampleDirection" Collapsed="true">
+    <Position X="12" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\HelpPage\SampleGeneration\SampleDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

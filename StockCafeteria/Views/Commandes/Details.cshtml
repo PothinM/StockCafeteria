@@ -1,0 +1,42 @@
+﻿@model StockCafeteria.Commande
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Commande</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Fournisseur.Nom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fournisseur.Nom)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SommeCommande)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SommeCommande)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateCommande)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateCommande)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdCommande }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
