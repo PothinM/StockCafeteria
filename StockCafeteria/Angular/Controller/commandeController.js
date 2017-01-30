@@ -28,16 +28,18 @@
         //parameters.date = "11-27-1995";
 
         apiService.addCommande(parameters).then(function (d) {
-            alert(d);
+            alert("Ok");
+            $scope.commande = null; //reinit les champs de commande
+            $scope.newObjets.length = 0; //aucun nouvel objet
         }, function () {
-            console.log('Erreur (fournisseurs)');
+            console.log("Erreur lors de l'envoi");
         });
     }
 
     $scope.updateNewObjets = function updateNewObjets() {
         var obj = $scope.objet
         $scope.newObjets.push(obj);
-        $scope.objet = null
+        $scope.objet = null; //reinit les champs de objet
     }
 
     //$scope.deleteNewObjets = function (item) {
